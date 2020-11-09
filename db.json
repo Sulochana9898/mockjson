@@ -1,1 +1,6 @@
-{"id":1,"firstname":"sulochana","lastname":"nalluri","email_id":"kmvlndvlk@gmail.com","password":"nkdwjnle","gender":"FEMALE"}
+{
+"user":[
+  {"id":1,"firstname":"sulochana","lastname":"nalluri","email_id":"kmvlndvlk@gmail.com","password":"nkdwjnle","gender":"FEMALE"}
+  ]
+}
+  
